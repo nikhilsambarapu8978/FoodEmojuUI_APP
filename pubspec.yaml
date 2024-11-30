@@ -1,0 +1,19 @@
+name: food_emoji_ui
+description: A Flutter app for displaying food emojis with categories, about, and contact sections.
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: "^3.5.0"  # Updated to specify Dart SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
