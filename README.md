@@ -26,16 +26,16 @@ To run this app locally, follow these steps:
 
 ## OUTPUTS 
 
-##HOME
+HOME
 ![Screenshot 2024-11-30 202150](https://github.com/user-attachments/assets/f5ca242f-b6f0-4229-8e87-cfe310fd3c85)
 
-##CATEGORIES
+CATEGORIES
 ![Screenshot 2024-11-30 202329](https://github.com/user-attachments/assets/ee605494-0d51-4926-bf14-5eb410fe6aca)
 
-##ABOUT
+ABOUT
 ![Screenshot 2024-11-30 202345](https://github.com/user-attachments/assets/5b5fd010-e7ba-452b-a5fc-4cce9e73c7fb)
 
-##CONTACT
+CONTACT
 ![Screenshot 2024-11-30 202357](https://github.com/user-attachments/assets/dda260c1-bacf-4fd9-a573-479bbb388c69)
 
 
